@@ -51703,5 +51703,15 @@
 			"platforms": 1,
 			"proj": 3
 		}
+				{
+			"group": 2,
+			"name": "Rahden",
+			"ril100": "HRAH",
+			"x": 282,
+			"y": -65,
+			"platformLength": 99,
+			"platforms": 1,
+			"proj": 3
+		},
 	]
 }
